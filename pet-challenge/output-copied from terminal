@@ -1,0 +1,238 @@
+PS C:\Users\LENOVO\OneDrive\Documents\pet-challenge> & C:/Python313/python.exe c:/Users/LENOVO/OneDrive/Documents/pet-challenge/main.py
+Could not find platform independent libraries <prefix>
+
+      / \__
+     (    @\___
+     /         O
+    /   (_____/
+   /_____/   U
+    
+🐾 Welcome to your Digital Dog Simba! 🐾
+Take care of your Golden Retriever puppy
+
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 3
+
+🎾 Simba excitedly chases his ball!
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♥♥♥♥♥♥♡♡♡♡ 6/10
+Energy:    ♦♦♦♢♢♢♢♢♢♢ 3/10
+Happiness: ☺☺☺☺☺☺☺☹☹☹ 7/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 1
+
+🍖 Simba wolfs down his dog food!
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♥♥♥♡♡♡♡♡♡♡ 3/10
+Energy:    ♦♦♦♢♢♢♢♢♢♢ 3/10
+Happiness: ☺☺☺☺☺☺☺☺☹☹ 8/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 2
+
+😴 Simba curls up and snores softly...
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♥♥♥♡♡♡♡♡♡♡ 3/10
+Energy:    ♦♦♦♦♦♦♦♦♢♢ 8/10
+Happiness: ☺☺☺☺☺☺☺☺☹☹ 8/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 1
+
+🍖 Simba wolfs down his dog food!
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♡♡♡♡♡♡♡♡♡♡ 0/10
+Energy:    ♦♦♦♦♦♦♦♦♢♢ 8/10
+Happiness: ☺☺☺☺☺☺☺☺☺☹ 9/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 6
+
+Simba hasn't learned any tricks yet. Time for training!
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♡♡♡♡♡♡♡♡♡♡ 0/10
+Energy:    ♦♦♦♦♦♦♦♦♢♢ 8/10
+Happiness: ☺☺☺☺☺☺☺☺☺☹ 9/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 5
+What trick should Simba learn? preying
+
+🎓 Simba learned to preying! Good boy!
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♡♡♡♡♡♡♡♡♡♡ 0/10
+Energy:    ♦♦♦♦♦♦♦♢♢♢ 7/10
+Happiness: ☺☺☺☺☺☺☺☺☹☹ 8/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 5
+What trick should Simba learn? jump
+
+🎓 Simba learned to jump! Good boy!
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♡♡♡♡♡♡♡♡♡♡ 0/10
+Energy:    ♦♦♦♦♦♦♢♢♢♢ 6/10
+Happiness: ☺☺☺☺☺☺☺☹☹☹ 7/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 2
+
+😴 Simba curls up and snores softly...
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♡♡♡♡♡♡♡♡♡♡ 0/10
+Energy:    ♦♦♦♦♦♦♦♦♦♦ 10/10
+Happiness: ☺☺☺☺☺☺☺☹☹☹ 7/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 7
+
+~Simba wags his tail happily~
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♡♡♡♡♡♡♡♡♡♡ 0/10
+Energy:    ♦♦♦♦♦♦♦♦♦♦ 10/10
+Happiness: ☺☺☺☺☺☺☺☺☹☹ 8/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 4
+
+🐕 Simba says: Woof! Woof!
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♡♡♡♡♡♡♡♡♡♡ 0/10
+Energy:    ♦♦♦♦♦♦♦♦♦♦ 10/10
+Happiness: ☺☺☺☺☺☺☺☺☹☹ 8/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 6
+
+Simba knows: preying, jump
+
+Simba's Status (Golden Retriever, Age: 1)
+Hunger:    ♡♡♡♡♡♡♡♡♡♡ 0/10
+Energy:    ♦♦♦♦♦♦♦♦♦♦ 10/10
+Happiness: ☺☺☺☺☺☺☺☺☹☹ 8/10
+
+What would you like to do?
+1. Feed Simba
+2. Put Simba to sleep
+3. Play with Simba
+4. Hear Simba bark
+5. Train Simba
+6. See tricks Simba knows
+7. Pet Simba (wag tail)
+8. Check Simba's status
+9. Quit
+> 9
+
+Goodbye! Simba will miss you! 🐶💤
+PS C:\Users\LENOVO\OneDrive\Documents\pet-challenge> 
